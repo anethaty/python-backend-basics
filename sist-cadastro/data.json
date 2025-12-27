@@ -1,14 +1,8 @@
 [
-  {
-    "nome": "harry potter",
-    "autor": "jk",
-    "ano": 2001,
-    "preco": 35.0
-  },
-  {
-    "nome": "Lord of The Rings",
-    "autor": "Tolkin",
-    "ano": 90,
-    "preco": 40.0
-  }
+    {
+        "nome": "Lord of The Rings",
+        "autor": "Tolkin",
+        "ano": 90,
+        "preco": 40.0
+    }
 ]
